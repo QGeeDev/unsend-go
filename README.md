@@ -2,6 +2,9 @@
 
 Go SDK for [unsend.dev](https://unsend.dev)
 
+[![Go - Build and Test](https://github.com/QGeeDev/unsend-go/actions/workflows/build-and-test.yml/badge.svg?branch=main)](https://github.com/QGeeDev/unsend-go/actions/workflows/build-and-test.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/QGeeDev/unsend-go)](https://goreportcard.com/report/github.com/QGeeDev/unsend-go)
+
 ## Supported versions
 - Unsend 1.4.x
 - Go 1.22.x
